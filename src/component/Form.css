@@ -1,0 +1,9 @@
+.advanced {
+    margin: 5px auto;
+    width: fit-content;
+    background-color: #3071a9;
+    cursor: pointer;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
